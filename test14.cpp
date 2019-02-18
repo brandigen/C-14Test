@@ -1,4 +1,4 @@
-// test file
+// test file 2
 #include "stdafx.h"
 
 #include <iostream>
